@@ -17,7 +17,7 @@
             <img src="python.png" height="100" width="100">
             <img src="c.png" height="100" width="100">
             <img src="cc.png" height="93" width="93">
-            <img src="js.png" height="100" width="100">
+            <img src="jS.png" height="100" width="100">
         </div>
         </h2>
     <h2>Recent Researches<br><br>
