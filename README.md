@@ -13,11 +13,11 @@
     </h2>
     <h2>Programming Languages</h2>
         <div>
-            <img src="file:///home/savyo/Desktop/GitHub/Home/matlab.png">
-            <img src="./imagens_body/logo_veesec.png">
-            <img src="./imagens_body/logo_vindi.png">
-            <img src="./imagens_body/logo_namecheap.png">
-            <img src="./imagens_body/logo_namecheap.png">
+            <img src="matlab.png" height="100" width="100">
+            <img src="python.png" height="100" width="100">
+            <img src="c.png" height="100" width="100">
+            <img src="cc.png" height="100" width="100">
+            <img src="js.png" height="100" width="100">
         </div>
 </body>
 </html>
